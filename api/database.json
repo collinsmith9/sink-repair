@@ -1,0 +1,56 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 5,
+      "plumberId": 2,
+      "date_created": 1636036292622,
+      "id": 1
+    },
+    {
+      "requestId": 4,
+      "plumberId": 2,
+      "date_created": 1636036316965,
+      "id": 2
+    }
+  ],
+  "requests": [
+    {
+      "description": "tub",
+      "address": "house",
+      "budget": "999",
+      "neededBy": "2021-11-05",
+      "id": 3
+    },
+    {
+      "description": "new",
+      "address": "house",
+      "budget": "5",
+      "neededBy": "2021-11-05",
+      "id": 4
+    },
+    {
+      "description": "leaky tub",
+      "address": "house street",
+      "budget": "77",
+      "neededBy": "2021-11-19",
+      "id": 5
+    },
+    {
+      "description": "bathroom reeks",
+      "address": "house",
+      "budget": "76",
+      "neededBy": "2021-11-12",
+      "id": 6
+    }
+  ]
+}
